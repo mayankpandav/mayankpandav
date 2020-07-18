@@ -3,10 +3,9 @@ Hi!👋<br />
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
 👨‍💻Let's Learn and grow<br />
 ⚡ Fun fact: I have a secret collection of old coins. <br />
- 📫Connect me here:<br />
- 
+ 📫Connect me here:
+ <br />
  email:mpandav1998@gmail.com
- 
  <br />
  <p>
   <a href="https://in.linkedin.com/in/mayankpandav">
