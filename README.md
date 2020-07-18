@@ -4,6 +4,7 @@ Hi!👋<br />
 👨‍💻Let's Learn and grow<br />
 ⚡ Fun fact: I have a secret collection of old coins. <br />
  📫Connect me here:<br />
+ email:mpandav1998@gmail.com
  <br />
  <p>
   <a href="https://in.linkedin.com/in/mayankpandav">
@@ -15,6 +16,7 @@ Hi!👋<br />
  <a href="https://medium.com/@mayakpandav">
     <img src="https://img.shields.io/badge/mayakpandav-mayankpandav?style=flat&logo=medium">
   </a>
+ 
 </p>
 <h6>Available for Hire</h6>
 Cheers!
