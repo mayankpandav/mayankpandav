@@ -1,5 +1,20 @@
-[![Jason Lengstorf has a lot of ideas.](https://res.cloudinary.com/jlengstorf/image/upload/f_auto,g_auto/v1593579116/jason.af/og-image.jpg)](https://www.jason.af)
-
-Hi. I’m Jason. I build lots of demos on this account and the [@learnwithjason](https://github.com/learnwithjason) organization. Most of them are built live on [_Learn With Jason_](https://www.learnwithjason.dev), a live-streamed pair programming show where super smart people join to teach us something new in 90 minutes.
-
-I work at [Netlify](https://www.netlify.com/?utm_source=github&utm_medium=gh-profile-jl&utm_campaign=devex) as a Principal Developer Experience Engineer. For more information about me (and a whole lot of shenanigans), check out [jason.af](https://www.jason.af/).
+<img align ="right" src = "https://i.stack.imgur.com/smGdy.gif" width="150" height="150">
+Hi!👋<br />
+“Learning never exhausts the mind.” – Leonardo da Vinci <br />
+👨‍💻Let's Learn and grow<br />
+⚡ Fun fact: I have a secret collection of old coins. <br />
+ 📫Connect me here:<br />
+ <br />
+ <p>
+  <a href="https://in.linkedin.com/in/mayankpandav">
+    <img src="https://img.shields.io/badge/mayankpandav-pandav-386938188?style=flat&logo=linkedin">
+  </a> &nbsp; 
+  <a href="https://twitter.com/MayankPandav">
+    <img src="https://img.shields.io/badge/@MayankPandav-pandav?style=flat&logo=twitter">
+  </a>
+ <a href="https://medium.com/@mayakpandav">
+    <img src="https://img.shields.io/badge/mayakpandav-mayankpandav?style=flat&logo=medium">
+  </a>
+</p>
+<h6>Available for Hire</h6>
+Cheers!
