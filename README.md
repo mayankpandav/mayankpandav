@@ -1,4 +1,5 @@
 <img align ="right" src = "https://i.stack.imgur.com/smGdy.gif" width="150" height="150">
+<h1>Available for Hire</h1>
 Hi!👋<br />
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
 👨‍💻Let's Learn and grow<br />
@@ -23,5 +24,6 @@ Hi!👋<br />
   </a>
  
 </p>
-<h6>Available for Hire</h6>
-Cheers!
+
+
+[![Mayank Pandav's github stats](https://github-readme-stats.vercel.app/api?username=mayankpandav)](https://github.com/mayankpandav/github-readme-stats)
