@@ -27,3 +27,4 @@ Hi!👋<br />
 
 
 [![Mayank Pandav's github stats](https://github-readme-stats.vercel.app/api?username=mayankpandav)](https://github.com/mayankpandav/github-readme-stats)
+https://github-profile-trophy.vercel.app/?username=mayankpandav&title=Stars,Followers
