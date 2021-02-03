@@ -25,5 +25,3 @@ Hi!👋<br />
  
 </p>
 
-
-[![Mayank Pandav's github stats](https://github-readme-stats.vercel.app/api?username=mayankpandav)](https://github.com/mayankpandav/github-readme-stats)
