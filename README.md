@@ -23,9 +23,6 @@ Hi!👋<br />
 <br />
 <br />
 
-<iframe src="https://skyline.github.com/mayankpandav/2022" title="W3Schools Free Online Web Tutorials">
-</iframe>
-
 
 <br />
 <br />
