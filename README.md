@@ -24,7 +24,7 @@ Hi!👋<br />
 <img src="https://skillicons.dev/icons?i=remix,nextjs,apollo,wordpress,jenkins,jest" />
 
 #### Other tools
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,bash,docker,electron,gcp,github,gitlab,heroku,kubernetes,nginx,aws,azure" />
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,bash,docker,electron,gcp,github,gitlab,heroku,kubernetes,nginx,aws,azure,cassandra" />
 
 <br />
 <br />
