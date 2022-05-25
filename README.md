@@ -15,16 +15,16 @@ Hi!👋<br />
 ### My weapons of choice:
 
 #### Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,gatsby,bootstrap,materialui,emotion,tailwind,nextjs,redux,regex,react,sass,styledcomponents" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,gatsby,bootstrap,materialui,emotion,tailwind,nextjs,redux,regex,react,sass,styledcomponents&perline=5" />
 
 #### Back-end
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,nestjs,mysql,mongodb,postgres,supabase,firebase,appwrite,go,graphql,redis,sqlite" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,nestjs,mysql,mongodb,postgres,supabase,firebase,appwrite,go,graphql,redis,sqlite&perline=5" />
 
 #### Full-stack frameworks
-<img src="https://skillicons.dev/icons?i=remix,nextjs,apollo,wordpress,jenkins,jest,webpack" />
+<img src="https://skillicons.dev/icons?i=remix,nextjs,apollo,wordpress,jenkins,jest,webpack&perline=5" />
 
 #### Other tools
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,bash,docker,electron,gcp,github,gitlab,heroku,kubernetes,nginx,aws,azure,cassandra" />
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,bash,docker,electron,gcp,github,gitlab,heroku,kubernetes,nginx,aws,azure,cassandra&perline=5" />
 
 <br />
 <br />
