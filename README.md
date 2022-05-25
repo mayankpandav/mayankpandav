@@ -21,7 +21,7 @@ Hi!👋<br />
 <img src="https://skillicons.dev/icons?i=php,nodejs,express,nestjs,mysql,mongodb,postgres,supabase,firebase,appwrite,go,graphql,redis,sqlite" />
 
 #### Full-stack frameworks
-<img src="https://skillicons.dev/icons?i=remix,nextjs,apollo,wordpress,jenkins,jest" />
+<img src="https://skillicons.dev/icons?i=remix,nextjs,apollo,wordpress,jenkins,jest,webpack" />
 
 #### Other tools
 <img src="https://skillicons.dev/icons?i=git,linux,vscode,bash,docker,electron,gcp,github,gitlab,heroku,kubernetes,nginx,aws,azure,cassandra" />
