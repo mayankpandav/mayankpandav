@@ -11,6 +11,26 @@ Hi!👋<br />
  email:mpandav1998@gmail.com
 
 <br />
+
+### My weapons of choice:
+
+#### Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,gatsby,bootstrap,materialui,emotion,tailwind,nextjs,redux,regex,react,sass,styledcomponents" />
+
+#### Back-end
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,nestjs,mysql,mongodb,postgres,supabase,firebase,appwrite,go,graphql,redis,sqlite" />
+
+#### Full-stack frameworks
+<img src="https://skillicons.dev/icons?i=remix,nextjs,apollo,wordpress,jenkins,jest" />
+
+#### Other tools
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,bash,docker,electron,gcp,github,gitlab,heroku,kubernetes,nginx" />
+
+<br />
+<br />
+<br />
+
+
  <a href="https://stackoverflow.com/users/4981359/mayank-pandav">
   <img 
      src="https://stackoverflow.com/users/flair/4981359.png?theme=default" 
