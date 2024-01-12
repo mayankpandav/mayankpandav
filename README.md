@@ -45,9 +45,6 @@ Hi!👋<br />
 <br />
 <br />
 
-[![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankpandav&theme=dracula&show_icons=true&count_private=true)](https://github.com/mayankpandav/) <br />
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpandav&theme=dracula)](https://github.com/mayankpandav/)
-
  <p>
   <a href="https://in.linkedin.com/in/mayankpandav">
     <img src="https://img.shields.io/badge/mayankpandav-pandav-386938188?style=flat&logo=linkedin">
@@ -67,8 +64,4 @@ Hi!👋<br />
 
 
 
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankpandav&" alt="mayankpandav" /></p>
 
