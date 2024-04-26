@@ -1,6 +1,5 @@
 <img align ="right" src = "https://i.stack.imgur.com/smGdy.gif" width="150" height="150">
 <h1>Available for Hire</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankpandav&label=Profile%20views&color=0e75b6&style=flat" alt="mayankpandav" /> </p>
 
 Hi!👋<br />
 “Learning never exhausts the mind.” – Leonardo da Vinci <br />
